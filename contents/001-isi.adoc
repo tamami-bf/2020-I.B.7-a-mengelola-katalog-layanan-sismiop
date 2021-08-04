@@ -1,4 +1,4 @@
-== Portal Pajak Daerah
+== Aplikasi SISMIOP
 
 image::by-sa.png[pdfwidth=25%]
 
@@ -64,7 +64,7 @@ Layanan pendukung yang harus tersedia agar layanan ini dapat berjalan adalah sep
 |===
 | Versi | Tanggal
 
-| 1.0 | 29 Juni 2021
+| 1.0 | 29 Juni 2020
 |===
 
 <<<
